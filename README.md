@@ -18,8 +18,9 @@ Dynamic Tourist Lists: Get funny and brutally honest recommendations from users.
 
 # Tech Stack:
 
+
 The frontend is made using React with Vite and Tailwind CSS for a playful and very vibrant design. Node.js and Express.js for APIs as well as server-side functionality. MongoDB with Mongoose to store data about touristic places and input from users.
 
 # Why This Project?
 
-This project is silly, fun, and unique while still ticking all the boxes of the ASAP project requirements. It gives me the opportunity to work on everything from authentication to CRUD operations, API development, and a creative UI. Plus, it’s a great way to show off Theni’s beauty… with a humorous twist!
+This project is silly., fun, and unique while still ticking all the boxes of the ASAP project requirements. It gives me the opportunity to work on everything from authentication to CRUD operations, API development, and a creative UI. Plus, it’s a great way to show off Theni’s beauty… with a humorous twist!
