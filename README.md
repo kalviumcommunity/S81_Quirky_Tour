@@ -24,3 +24,6 @@ The frontend is made using React with Vite and Tailwind CSS for a playful and ve
 # Why This Project?
 
 This project is silly., fun, and unique while still ticking all the boxes of the ASAP project requirements. It gives me the opportunity to work on everything from authentication to CRUD operations, API development, and a creative UI. Plus, it’s a great way to show off Theni’s beauty… with a humorous twist!
+
+
+#deploy
